@@ -37,7 +37,7 @@
 <!-- ========== END HEADER ========== -->
 <div class="container flex justify-between items-center ">
 <img src="../../img/logo_unira.png" alt="logo unira" class="logo">
-<h1 class="justify-start">UNIVERSITAS MADURA</h1>
+<h1 class=" text-left">UNIVERSITAS MADURA</h1>
 
 <div>
     <p>
@@ -74,3 +74,5 @@
   </div>
 </main>
 <!-- ========== END MAIN CONTENT ========== -->
+
+<!-- lanjut besok lagi -->
