@@ -2,15 +2,18 @@
 <header class="flex flex-wrap sm:justify-start sm:flex-nowrap z-50 w-full bg-blue-600 text-sm py-3 sm:py-0">
   <nav class="relative max-w-[85rem] w-full mx-auto px-4 sm:flex sm:items-center sm:justify-between sm:px-6 lg:px-8" aria-label="Global">
     <div class="flex items-center justify-between">
+      <a class="flex-none font-semibold text-white" href="#" aria-label="Brand">
+        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-map-pin"><path d="M20 10c0 6-8 12-8 12s-8-6-8-12a8 8 0 0 1 16 0Z"/><circle cx="12" cy="10" r="3"/></svg>
+      </a>
       <a class="flex-none font-semibold text-white" href="#" aria-label="Brand">Jl.Panglegur Km.3,5 Pamekasan Jawa Timur  </a>
+      <a class="flex-none font-semibold text-white" href="#" aria-label="Brand">
+        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-phone"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z"/></svg>
+      </a>
       <a class="flex-none font-semibold text-white" href="#" aria-label="Brand"> (0324) 322231, 325786</a>
-      <a class="flex-none font-semibold text-white" href="#" aria-label="Brand"> info@unira.ac.id</a>
-      <div class="sm:hidden">
-        <button type="button" class="hs-collapse-toggle size-9 flex justify-center items-center gap-x-2 text-sm font-semibold rounded-lg border border-white/20 text-white hover:border-white/40 disabled:opacity-50 disabled:pointer-events-none" data-hs-collapse="#navbar-collapse-with-animation" aria-controls="navbar-collapse-with-animation" aria-label="Toggle navigation">
-          <svg class="hs-collapse-open:hidden flex-shrink-0 size-4" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="3" x2="21" y1="6" y2="6"/><line x1="3" x2="21" y1="12" y2="12"/><line x1="3" x2="21" y1="18" y2="18"/></svg>
-          <svg class="hs-collapse-open:block hidden flex-shrink-0 size-4" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M18 6 6 18"/><path d="m6 6 12 12"/></svg>
-        </button>
-      </div>
+      <a class="flex-none font-semibold text-white" href="#" aria-label="Brand">
+        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-mail"><rect width="20" height="16" x="2" y="4" rx="2"/><path d="m22 7-8.97 5.7a1.94 1.94 0 0 1-2.06 0L2 7"/>info@unira.ac.id</svg>
+      </a>
+      <a class="flex-none font-semibold text-white" href="#" aria-label="Brand">info@unira.ac.id</a>
     </div>
     <div id="navbar-collapse-with-animation" class="hs-collapse hidden overflow-hidden transition-all duration-300 basis-full grow sm:block">
       <div class="flex flex-col sm:flex-row sm:items-center sm:justify-end py-2 md:py-0 sm:ps-7">
@@ -34,9 +37,40 @@
 <!-- ========== END HEADER ========== -->
 <div class="container flex justify-between items-center ">
 <img src="../../img/logo_unira.png" alt="logo unira" class="logo">
+<h1 class="justify-start">UNIVERSITAS MADURA</h1>
+
 <div>
-    <h1>UNIVERSITAS MADURA</h1>
-    <p>Jl. Panglegur Km. 3,5 Pamekasan Jawa Timur</p>    
+    <p>
+      <a href="">PMB |</a>
+      <a href="">SIMAT |</a>
+      <a href="">MAIL |</a>
+      <a href="">SISTER </a>
+    </p>    
 </div>
 </div>
 
+
+<!-- ========== HEADER 2========== -->
+<header class="flex flex-wrap sm:justify-start sm:flex-nowrap z-50 w-full bg-blue-600 text-sm py-3 sm:py-0">
+  <nav class="relative max-w-[85rem] w-full mx-auto px-4 sm:flex sm:items-center sm:justify-between sm:px-6 lg:px-8" aria-label="Global">
+    <div class="flex items-center justify-between">
+      <a class="py-3 ps-px sm:px-3 font-medium text-white" href="#" aria-label="Brand">Beranda</a>
+      <a class="py-3 ps-px sm:px-3 font-medium text-white" href="#" aria-label="Brand">Profil</a>
+      <a class="py-3 ps-px sm:px-3 font-medium text-white" href="#" aria-label="Brand">Fakultas</a>
+      <a class="py-3 ps-px sm:px-3 font-medium text-white" href="#" aria-label="Brand">Pengumuman</a>
+      <a class="py-3 ps-px sm:px-3 font-medium text-white" href="#" aria-label="Brand">Berita</a>
+      <a class="py-3 ps-px sm:px-3 font-medium text-white" href="#" aria-label="Brand">Informasi</a>
+      <a class="py-3 ps-px sm:px-3 font-medium text-white" href="#" aria-label="Brand">Penelitian dan Pengabdian</a>
+      <a class="py-3 ps-px sm:px-3 font-medium text-white" href="#" aria-label="Brand">Layanan Kampus</a>
+    </div>
+  </nav>
+</header>
+<!-- ========== END HEADER 2========== -->
+
+<!-- ========== MAIN CONTENT ========== -->
+<main id="content">
+  <div class="max-w-[85rem] mx-auto py-10 px-4 sm:px-6 lg:px-8">
+    <!-- your content goes here ... -->
+  </div>
+</main>
+<!-- ========== END MAIN CONTENT ========== -->
