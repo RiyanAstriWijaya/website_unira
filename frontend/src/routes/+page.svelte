@@ -85,9 +85,20 @@
 
 <div class="bg-white h-80 mt-3 grid grid-cols-2">
   <div class="container">
-    <h3>Informasi Terbaru</h3>
+    <h3>Berita Terbaru</h3>
     <div class="w-40">
       <img src="../../img/berita/1.jpg" alt="gambar not found">
+      <h2>Pengumuman Tes PMB Dan KIP Kuliah Gelombang 2</h2>
+    </div>
+  </div>
+</div>
+
+<div class="bg-white h-80 mt-3 grid grid-cols-2">
+  <div class="container">
+    <h3>Video</h3>
+    <div class="w-40">
+      <img src="../../img/berita/1.jpg" alt="gambar not found">
+      <h2>Pengumuman Tes PMB Dan KIP Kuliah Gelombang 2</h2>
     </div>
   </div>
 </div>
@@ -96,10 +107,22 @@
   
 <!-- FOOTER -->
   <div class="flex items-center justify-start pr-10">
-      <div>
+      <!-- <div>
           <p>(0324) 322231, 325786</p> 
           <p>info@unira.ac.id</p>
-      </div>
+      </div> -->
   </div>
-<div class=" bg-blue-600 h-80 mt-3 grid grid-cols-2"> </div>
+<div class=" bg-blue-600 h-80 mt-3 grid grid-cols-2"> 
+  
+    
+      <div class="container flex items-center">
+        <img src="../../img/logo_unira.png" alt="logo unira" class="logo">
+          <h1 class="text-1xl font-bold ">UNIVERSITAS MADURA</h1>
+      </div>
+      <div class="container flex items-center">
+          <h1 class="text-1xl font-bold ">FAKULTAS</h1>
+      </div>
+  
+  
+</div>
 <!-- END FOOTER -->
