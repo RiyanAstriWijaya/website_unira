@@ -74,11 +74,24 @@
 
 <!-- ========== MAIN CONTENT ========== -->
 <main id="content">
-  <div class="max-w-[85rem] mx-auto py-10 px-4 sm:px-6 lg:px-8">
-    <!-- your content goes here ... -->
-  </div>
+  <!-- <div class="max-w-[85rem] mx-auto py-10 px-4 sm:px-6 lg:px-8">
+  </div> -->
 </main>
 <!-- ========== END MAIN CONTENT ========== -->
+ <!-- BODY -->
+  <div class="container">
+  <img src="../../img/unira/01.png" alt="gambar not found">
+  </div>
+
+<div class="bg-white h-80 mt-3 grid grid-cols-2">
+  <div class="container">
+    <h3>Informasi Terbaru</h3>
+    <div class="w-40">
+      <img src="../../img/berita/1.jpg" alt="gambar not found">
+    </div>
+  </div>
+</div>
+ <!-- END BODY -->
 
   
 <!-- FOOTER -->
