@@ -93,12 +93,33 @@
   </div>
 </div>
 
-<div class="bg-white h-80 mt-3 grid grid-cols-2">
+<div class="bg-white h-90 mt-3 grid grid-cols-2">
   <div class="container">
     <h3>Video</h3>
     <div class="w-40">
       <img src="../../img/berita/1.jpg" alt="gambar not found">
-      <h2>Pengumuman Tes PMB Dan KIP Kuliah Gelombang 2</h2>
+      <h2>PERTUKARAN MAHASISWA MERDEKA 2022 | EPS. 04 | MENYELAMI KEUNIKAN BUDAYA MELALUI PERTUKARAN MAHASISWA</h2>
+    </div>
+  </div>
+</div>
+
+<div class="bg-white h-80 mt-3 grid grid-cols-2">
+  <div class="container">
+    <h3>Events</h3>
+    <div class="w-40">
+      <img src="../../img/berita/1.jpg" alt="gambar not found">
+      <h2>KTTI 23 TEKNIK INDUSTRI UNIVERSITAS MADURA
+        30 Nov 2023</h2>
+    </div>
+  </div>
+</div>
+
+<div class="bg-white h-80 mt-3 grid grid-cols-2">
+  <div class="container">
+    <h3>Galeri</h3>
+    <div class="w-40">
+      <img src="../../img/galeri/1.jpg" alt="gambar not found">
+      <h2>Pemilihan Mahasiswa Berprestasi Tingkat Kopertis VII Jawa Timur 2017 - Ana Rukmana</h2>
     </div>
   </div>
 </div>
@@ -125,4 +146,6 @@
   
   
 </div>
+<br><h2>Copyright Universitas Madura 2024.</h2><br>
+
 <!-- END FOOTER -->
