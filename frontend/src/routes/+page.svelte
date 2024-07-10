@@ -36,8 +36,13 @@
 </header>
 <!-- ========== END HEADER ========== -->
 <div class="container flex justify-between items-center ">
-<img src="../../img/logo_unira.png" alt="logo unira" class="logo">
-<h1 class=" text-left">UNIVERSITAS MADURA</h1>
+  <div class="grid grid-cols-2">
+    <div class="container flex items-center">
+      <img src="../../img/logo_unira.png" alt="logo unira" class="logo">
+<h1 class="text-1xl font-bold">UNIVERSITAS MADURA</h1>
+</div>
+</div>
+
 
 <div>
     <p>
@@ -75,4 +80,13 @@
 </main>
 <!-- ========== END MAIN CONTENT ========== -->
 
-<!-- lanjut besok lagi -->
+  
+<!-- FOOTER -->
+  <div class="flex items-center justify-start pr-10">
+      <div>
+          <p>(0324) 322231, 325786</p> 
+          <p>info@unira.ac.id</p>
+      </div>
+  </div>
+<div class=" bg-blue-600 h-80 mt-3 grid grid-cols-2"> </div>
+<!-- END FOOTER -->
